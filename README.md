@@ -1,19 +1,5 @@
 ### Hello World, I'm Victor 👋
 
-A little bit about my self:
-
-
-✍ You can find my projects here portfolio
-😄 Pronouns: he/him
-⚡ Fun fact: first time I undergo a procedure, asked the surgeon to play some rock, when I woke up it was playing Led Zeppelin - Stairway to Heaven, told him he had great taste for music
-where to find me:
-Linkedin Badge Gmail Badge
-
-<!--
-**VictorMayer/VictorMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,4 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**VictorMayer/VictorMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
