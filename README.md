@@ -8,8 +8,6 @@
 
 ### Passionate about writing software that solves problems in a creative way
 
-<br/>
-
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning Typescript and ORM
