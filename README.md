@@ -6,7 +6,7 @@
 
 ## I'm a Creative Web Developer!!
 
-### Passionate about writing software that solves problems in a creative way
+### Passionate about learning new things and writing software that solves problems in a creative way
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my portfolio website.
